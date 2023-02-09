@@ -1,1 +1,2 @@
 Bu 1.txt dosyası
+Şuan deneysel dalında yazı eklendi
